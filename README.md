@@ -9,7 +9,7 @@
     </header>
     <main>
         <h2 id="about-me">Обо мне</h2>
-        <p>Я разработчик.</p>
+        <p>Я разработчик</p>
         <h2 id="projects">Мои Проекты</h2>
         <div class="project">
             <h3><a href="https://github.com/JAmKar1/Generator.git">Генератор паролей</a></h3>
@@ -25,8 +25,8 @@
             <p>Краткое описание проекта. Веб-приложение для управления учебным процессом в техникуме с авторизацией, расписанием, репетиторством и системой сообщений.</p>
         </div>
         <h2 id="contact">Контакты</h2>
-        <p>Вы можете связаться со мной по электронной почте: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        <p>Или посмотреть мой профиль в LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
+        <p>Вы можете связаться со мной по электронной почте: <a href="vozisovuva25@GMAIL.com">your.email@example.com</a></p>
+        <p>Или посмотреть мой профиль в github: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
     </main>
     <footer>
         <p>© 2026 Ваше Имя</p>
