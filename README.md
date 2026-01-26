@@ -9,7 +9,7 @@
     </header>
     <main>
         <h2 id="about-me">Обо мне</h2>
-        <p>Я разработчик</p>
+        <p>Я студент самого шикарного Техникума в городе Ижевск</p>
         <h2 id="projects">Мои Проекты</h2>
         <div class="project">
             <h3><a href="https://github.com/JAmKar1/Generator.git">Генератор паролей</a></h3>
