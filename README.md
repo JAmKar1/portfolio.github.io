@@ -29,7 +29,7 @@
         <p>Или посмотреть мой профиль в github: <a href="https://github.com/JAmKar1?tab=repositories">GitHub Profile</a></p>
     </main>
     <footer>
-        <p>© 2026 Ваше Имя</p>
+        <p>© 2026 Артемий Вадимович</p>
     </footer>
 </body>
 </html>
