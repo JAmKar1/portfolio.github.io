@@ -12,7 +12,7 @@
         <p>Я разработчик.</p>
         <h2 id="projects">Мои Проекты</h2>
         <div class="project">
-            <h3><a href="[https://github.com/username/project1](https://github.com/JAmKar1/Generator.git)">Генератор паролей</a></h3>
+            <h3><a href="https://github.com/JAmKar1/Generator.git">Генератор паролей</a></h3>
             <p>Краткое описание проекта 1. Здесь опишите цель проекта, технологии, которые использовались, и ваш вклад.</p>
         </div>
         <div class="project">
