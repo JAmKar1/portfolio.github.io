@@ -1,6 +1,6 @@
 # portfolio.github.io
 
-<!DOCTYPE html>
+
 <html lang="ru">
 <body>
     <header>
