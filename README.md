@@ -26,7 +26,7 @@
         </div>
         <h2 id="contact">Контакты</h2>
         <p>Вы можете связаться со мной по электронной почте: <a href="vozisovuva25@GMAIL.com">your.email@example.com</a></p>
-        <p>Или посмотреть мой профиль в github: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
+        <p>Или посмотреть мой профиль в github: <a href="https://github.com/JAmKar1?tab=repositories">GitHub Profile</a></p>
     </main>
     <footer>
         <p>© 2026 Ваше Имя</p>
