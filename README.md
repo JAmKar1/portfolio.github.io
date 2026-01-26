@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мое Портфолио</title>
 </head>
 <body>
     <header>
@@ -10,7 +9,7 @@
     </header>
     <main>
         <h2 id="about-me">Обо мне</h2>
-        <p>Я увлеченный разработчик с опытом работы в ... (добавьте информацию о себе, свои навыки и интересы).</p>
+        <p>Я разработчик.</p>
         <h2 id="projects">Мои Проекты</h2>
         <div class="project">
             <h3><a href="https://github.com/username/project1">Название Проекта 1</a></h3>
