@@ -25,7 +25,7 @@
             <p>Краткое описание проекта. Веб-приложение для управления учебным процессом в техникуме с авторизацией, расписанием, репетиторством и системой сообщений.</p>
         </div>
         <h2 id="contact">Контакты</h2>
-        <p>Вы можете связаться со мной по электронной почте: <a href="vozisovuva25@GMAIL.com">your.email@example.com</a></p>
+        <p>Вы можете связаться со мной по электронной почте: <a href="vozisovuva25@gmail.com">vozisovuva25@gmail.com</a></p>
         <p>Или посмотреть мой профиль в github: <a href="https://github.com/JAmKar1?tab=repositories">GitHub Profile</a></p>
     </main>
     <footer>
